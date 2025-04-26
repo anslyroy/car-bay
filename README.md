@@ -58,6 +58,7 @@ Users can view product details, ratings, and make secure payments via credit car
 
 ##  Screenshots
 
+![Home page](screenshots/carbay-homepage.png)
 ---
 
 ##  Testing
